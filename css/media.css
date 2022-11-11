@@ -1,0 +1,116 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 1024px) {
+    .header-nav a {
+        font-size: 14px;
+    }
+    .hero-title h1 {
+        font-size: 40px;
+    }
+    .hero-title p {
+        font-size: 17px;
+    }
+    .apply-title h1 {
+        font-size: 30px;
+    }
+    .about-title h1 {
+        font-size: 35px;
+    }
+    .about-title p {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .header-nav button {
+        width: 96px;
+        height: 48px;
+    }
+    .hero h5 {
+        font-size: 15px;
+    }
+    .hero-title h1 {
+        font-size: 35px;
+    }
+    .apply-title p {
+        font-size: 15px;
+    }
+    .block h1 {
+        font-size: 23px;
+    }
+    .block p {
+        font-size: 13px;
+    }
+    .about-title h1 {
+        font-size: 28px;
+    }
+
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+    .hero-title h1 {
+        font-size: 28px;
+    }
+    .hero-btn-right {
+        font-size: 16px;
+    }
+    .hero-btn-left {
+        font-size: 16px;
+    }
+    hero-title p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 451px) {
+    .hero-title h1 {
+        font-size: 25px;
+    }
+    .hero-title p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 400px) {
+    .hero-title h1 {
+        font-size: 22px;
+    }
+    .hero-title p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 376px) {
+    .hero-title h1 {
+        font-size: 19px;
+    }
+    .hero-title p {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .hero-title h1 {
+        font-size: 15px;
+    }
+    .hero-title p {
+        font-size: 6px;
+    }
+}
+
+
+
