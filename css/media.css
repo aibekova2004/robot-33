@@ -110,6 +110,18 @@
     .hero-title p {
         font-size: 6px;
     }
+    .hero-group {
+        flex-direction: column;
+    }
+    .apply-group {
+        flex-direction: column;
+    }
+    .about-group {
+        flex-direction: column;
+    }
+    .footer-group {
+        flex-direction: column;
+    }
 }
 
 
