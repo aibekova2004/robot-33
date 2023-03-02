@@ -54,6 +54,11 @@ body {
     align-items: center;
     justify-content: space-around;
 }
+.hero-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 .hero h5 {
     font-weight: 600;
     font-size: 18px;
@@ -138,6 +143,11 @@ body {
     background: #3A68B8;
     border-radius: 5px;
 }
+.apply-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 .block {
     display: flex;
     align-items: center;
@@ -196,6 +206,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+.about-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 #footer {
     background: #030d1f;
@@ -263,6 +278,11 @@ body {
     font-size: 14px;
     color: #FFFFFF;
     padding-bottom: 20px;
+}
+.footer-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .footer-icons a {
     font-size: 30px;
